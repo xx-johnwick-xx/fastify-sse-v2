@@ -21,7 +21,7 @@
         "type": "git",
         "url": "git+https://github.com/xx-johnwick-xx/fastify-sse-v2.git"
     },
-    "author": "Marin Petrunić <marin@nodefactory.io>",
+    "author": "John Wick <JohnWick#0001 on Discord>",
     "license": "MIT",
     "homepage": "https://github.com/xx-johnwick-xx/fastify-sse-v2#readme",
     "devDependencies": {
@@ -44,7 +44,8 @@
     "dependencies": {
         "fastify-plugin": "^4.3.0",
         "it-pushable": "^1.4.2",
-        "it-to-stream": "^1.0.0"
+        "it-to-stream": "^1.0.0",
+        "yarn": "^1.22.19"
     },
     "peerDependencies": {
         "fastify": ">=4"
